@@ -16,12 +16,23 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 
 ### 🚀 Projects
 
-- 🔥 **[Pizza Portal](https://github.com/AllahRakha1234/Pizza-Portal)** – MERN Stack project with custom pizza builder and admin dashboard  
-- 📚 **[Hybrid Book Recommendation System](https://github.com/AllahRakha1234/Book-Recommendation-System)** – Streamlit-based project combining content and collaborative filtering  
-- 🎮 **[Pygame Projects](https://github.com/AllahRakha1234/Python-Games)** – Fun and interactive games built with Python and Pygame  
-- 🧠 **[Face Morphing & Detection Tools](https://github.com/AllahRakha1234/Face-Morphing)** – Python + Flask API for face morphing and landmarks  
-- 🎨 **[AR Face Studio](https://github.com/AllahRakha1234/AR-FaceStudio)** – Magic filters and AR effects using OpenCV, Dlib, and MediaPipe
+### 🚀 Projects
 
+- 🧩 [**Chroma – Chrome Extension for Color Blind People**](https://github.com/Chroma-Extension-For-ColorBlind-People/Chroma)  
+  A Chrome extension designed to enhance web accessibility for color-blind users. It includes grayscale filters, link and text color modifications, customizable palettes, and backend support using Node.js and MongoDB.
+
+- 👁️ [**AR Face Studio – Walee Internship Project**](https://github.com/AllahRakha1234/ARFaceStudio-Website-Walee)  
+  An interactive platform that allows users to capture or upload images and apply AR-based magic face filters using MediaPipe, Dlib, and OpenCV. Developed as part of a research internship at Walee.
+
+- 🍕 [**Pizza Website – OIBSIP Internship Project**](https://github.com/AllahRakha1234/Pizza-Website-OIBSIP)  
+  A MERN stack pizza ordering portal with features like user login, admin dashboard, order tracking, and a custom pizza creation tool. Developed during an internship at Oasis Infobyte.
+
+- 🤟 [**Sign Language Detection**](https://github.com/AllahRakha1234/Sign-Language-Detection)  
+  A real-time sign language recognition system using MediaPipe and OpenCV. It detects hand gestures and maps them to alphabets, enabling hands-free alphabet communication.
+
+- 🎨 **[AR Face Studio App](https://github.com/AllahRakha1234/Walee-AR-Studio-Android)**
+  Magic filters and AR effects using google mediapile face-landmarker and Kotlin.
+  
 > 📌 Explore more in the [Repositories](https://github.com/AllahRakha1234?tab=repositories) section!
 
 ---
@@ -29,7 +40,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 ### 📈 GitHub Stats
 
 ![Allah Rakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllahRakha1234&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllahRakha1234&layout=compact&theme=radical)
 
 
 ---
