@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 ### 🔧 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, C++, HTML, CSS
 - **Frontend:** React.js, Next.js, Redux, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js, Flask
-- **Database:** MongoDB, Firebase, MySQL
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Heroku, Render, Figma, Postman
 - **Others:** Web Extensions, API Integration, MediaPipe, OpenCV, Dlib
 
@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 ---
 
 ### 🤝 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/allah-rakha1234/)
-- 📧 Email: allah.rakha@example.com *(replace with actual email)*
-- 🌐 Portfolio: *(Add link if live)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/allah-rakha-z-a88b74233/)
+- 📧 Email: allahrakhahsp1234@gmail.com
+- 🌐 Portfolio: https://arzportfolio.netlify.app/
 
 ---
 
