@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'm Allah Rakha
 
-<!--
-**AllahRakha1234/AllahRakha1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN Stack developer, and tech enthusiast who loves building creative and scalable software solutions. I enjoy working on full-stack web applications, automation tools, and AI-integrated projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, C++, HTML, CSS
+- **Frontend:** React.js, Next.js, Redux, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, Flask
+- **Database:** MongoDB, Firebase, MySQL
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Heroku, Render, Figma, Postman
+- **Others:** Web Extensions, API Integration, MediaPipe, OpenCV, Dlib
+
+---
+
+### 🚀 Projects
+
+- 🔥 **[Pizza Portal](https://github.com/AllahRakha1234/Pizza-Portal)** – MERN Stack project with custom pizza builder and admin dashboard  
+- 📚 **[Hybrid Book Recommendation System](https://github.com/AllahRakha1234/Book-Recommendation-System)** – Streamlit-based project combining content and collaborative filtering  
+- 🎮 **[Pygame Projects](https://github.com/AllahRakha1234/Python-Games)** – Fun and interactive games built with Python and Pygame  
+- 🧠 **[Face Morphing & Detection Tools](https://github.com/AllahRakha1234/Face-Morphing)** – Python + Flask API for face morphing and landmarks  
+- 🎨 **[AR Face Studio](https://github.com/AllahRakha1234/AR-FaceStudio)** – Magic filters and AR effects using OpenCV, Dlib, and MediaPipe
+
+> 📌 Explore more in the [Repositories](https://github.com/AllahRakha1234?tab=repositories) section!
+
+---
+
+### 📈 GitHub Stats
+![Allah Rakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllahRakha1234&show_icons=true&theme=radical)
+
+---
+
+### 🤝 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/allah-rakha1234/)
+- 📧 Email: allah.rakha@example.com *(replace with actual email)*
+- 🌐 Portfolio: *(Add link if live)*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
