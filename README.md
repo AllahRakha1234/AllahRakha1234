@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 
 ### 🚀 Projects
 
-### 🚀 Projects
-
 - 🧩 [**Chroma – Chrome Extension for Color Blind People**](https://github.com/Chroma-Extension-For-ColorBlind-People/Chroma)  
   A Chrome extension designed to enhance web accessibility for color-blind users. It includes grayscale filters, link and text color modifications, customizable palettes, and backend support using Node.js and MongoDB.
 
