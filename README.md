@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 ### 🚀 Projects
 
 - 🧩 [**Chroma – Chrome Extension for Color Blind People**](https://github.com/Chroma-Extension-For-ColorBlind-People/Chroma)  
-  A Chrome extension designed to enhance web accessibility for color-blind users. It includes grayscale filters, link and text color modifications, customizable palettes, and backend support using Node.js and MongoDB.
+  A Chrome extension designed to enhance web accessibility for color-blind users. It includes grayscale filters, link and text color modifications, customizable palettes, and backend support using Node.js and MongoDB. It also stores the user data for better user experience.
 
 - 👁️ [**AR Face Studio – Walee Internship Project**](https://github.com/AllahRakha1234/ARFaceStudio-Website-Walee)  
   An interactive platform that allows users to capture or upload images and apply AR-based magic face filters using MediaPipe, Dlib, and OpenCV. Developed as part of a research internship at Walee.
