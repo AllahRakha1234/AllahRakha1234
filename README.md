@@ -35,12 +35,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 
 ---
 
-### 📈 GitHub Stats
-
-![Allah Rakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllahRakha1234&show_icons=true&theme=radical)
-
-
----
 
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/allah-rakha-z-a88b74233/)
