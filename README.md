@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 
 - 🎨 **[AR Face Studio App](https://github.com/AllahRakha1234/Walee-AR-Studio-Android)**
   Magic filters and AR effects using google mediapile face-landmarker and Kotlin.
+
+- 🎓 **[UniSync – University Management System](https://github.com/AllahRakha1234/Unisync)**
+  A modular, multi-tenant university platform built with Next.js, TypeScript, Supabase, Redux, Tailwind CSS, and Shadcn. Supports role-based access (Super Admin, Admin, Instructor, Student) with features like LMS, assignments, grading, attendance tracking, file uploads, and real-time analytics. 
   
 > 📌 Explore more in the [Repositories](https://github.com/AllahRakha1234?tab=repositories) section!
 
