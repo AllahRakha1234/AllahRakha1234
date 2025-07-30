@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 - **Frontend:** React.js, Next.js, Redux, Bootstrap, Tailwind CSS, MUI, Shadcn 
 - **Backend:** Node.js, Express.js
 - **Database/ORM:** MongoDB, MySQL, PostgreSQL, TypeORM, Mongooes, Prisma
-- **Tools & Platforms:** Git, GitHub, Browser Debuggers, Vercel, Netlify, Heroku, Render, Figma, Postman
+- **Tools & Platforms:** Git, GitHub, Browser Debuggers, Vercel, Netlify, Heroku, Render, Figma, Postman, AWS, Docker
 - **Others:** Web Extensions, Web Sockets, API Integration, MediaPipe, OpenCV, Dlib
 
 ---
