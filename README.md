@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Allah Rakha
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN Stack developer, and tech enthusiast who loves building creative and scalable software solutions. I enjoy working on full-stack web applications, automation tools, and AI-integrated projects.
+Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN Stack developer, and tech enthusiast who loves building creative and scalable software solutions using cutting-edge technologies. I enjoy working on full-stack web applications, automation tools, and AI-integrated projects.
 
 ---
 
