@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN St
 
 ### 🔧 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, C/C++, HTML, CSS, Sass, Php
-- **Frontend:** React.js, Next.js, Redux, Zustand, Bootstrap, Tailwind CSS, Material UI, Shadcn UI
+- **Frontend:** React.js, Next.js, Redux, Zustand, Tailwind CSS, Material UI, Shadcn UI
 - **Backend:** Node.js, Express.js, Nestjs
 - **Database/ORM:** MongoDB, MySQL, PostgreSQL, TypeORM, Mongooes, Prisma
 - **Tools & Platforms:** Git, GitHub, GitBucket, Browser Debuggers, Vercel, Netlify, Heroku, Render, Figma, Postman,Thunder Client, AWS, Docker, Supabase, Zod, Yup
