@@ -1,6 +1,10 @@
 ## Hi there 👋 I'm Allah Rakha
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student, MERN Stack developer, and tech enthusiast who loves building creative and scalable software solutions using cutting-edge technologies. I enjoy working on full-stack web applications, automation tools, and AI-integrated projects.
+I'm Allah Rakha, a Software Engineer and Full Stack Developer passionate about building impactful and scalable digital solutions. I specialize in the MERN Stack and Python-based development, with hands-on experience in AI-integrated applications, AR technologies, and modern web platforms.
+
+I’ve worked on diverse projects ranging from educational platforms and billing systems to AR face-tracking applications and accessibility tools, leveraging frameworks like React.js, Next.js, NestJS, and libraries such as MediaPipe, OpenCV, and Tailwind CSS.
+
+Currently, I’m advancing my skills as a Software Engineer, crafting efficient backends, interactive UIs, and intelligent automation systems using cutting-edge technologies.
 
 ---
 
