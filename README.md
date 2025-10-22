@@ -4,7 +4,7 @@ I'm Allah Rakha, a Software Engineer and Full Stack Developer passionate about b
 
 I’ve worked on diverse projects ranging from educational platforms and billing systems to AR face-tracking applications and accessibility tools, leveraging frameworks like React.js, Next.js, NestJS, and libraries such as MediaPipe, OpenCV, and Tailwind CSS.
 
-Currently, I’m advancing my skills as a Software Engineer, crafting efficient backends, interactive UIs, and intelligent automation systems using cutting-edge technologies.
+Currently, I’m advancing my skills as a Software Engineer at Walee, crafting efficient backends, interactive UIs, and intelligent automation systems using cutting-edge technologies.
 
 ---
 
