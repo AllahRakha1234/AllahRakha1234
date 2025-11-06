@@ -9,10 +9,10 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, C/C++, HTML, CSS, Sass, Php
+- **Languages:** JavaScript, TypeScript, Python, C/C++, HTML, CSS, Sass, PHP
 - **Frontend:** React.js, Next.js, Redux, Zustand, Jotai, Tailwind CSS, Material UI, Shadcn UI
-- **Backend:** Node.js, Express.js, Nestjs
-- **Database/ORM:** MongoDB, MySQL, PostgreSQL, TypeORM, Mongooes, Prisma, Mongodb Driver
+- **Backend:** Node.js, Express.js, NestJS
+- **Database/ORM:** MongoDB, MySQL, PostgreSQL, TypeORM, Mongoose, Prisma, Mongodb Driver
 - **Tools & Platforms:** Git, GitHub, GitBucket, Browser Debuggers, Vercel, Netlify, Heroku, Render, Figma, Postman,Thunder Client, AWS, Docker, Supabase, Zod, Yup
 - **Others:** Web Extensions, Web Sockets (Socket. IO), API Integration, MediaPipe, OpenCV
 
@@ -36,7 +36,13 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
   Magic filters and AR effects using google mediapile face-landmarker and Kotlin.
 
 - 🎓 **[UniSync – University Management System](https://github.com/AllahRakha1234/Unisync)**
-  A modular, multi-tenant university platform built with Next.js, TypeScript, Supabase, Redux, Tailwind CSS, and Shadcn. Supports role-based access (Super Admin, Admin, Instructor, Student) with features like LMS, assignments, grading, attendance tracking, file uploads, and real-time analytics. 
+  A modular, multi-tenant university platform built with Next.js, TypeScript, Supabase, Redux, Tailwind CSS, and Shadcn. Supports role-based access (Super Admin, Admin, Instructor, Student) with features like LMS, assignments, grading, attendance tracking, file uploads, and real-time analytics.
+
+- 💬 [**SmartTalk – Real-Time Chat Application**](https://github.com/AllahRakha1234/SmartTalk)
+  A modern, full-featured real-time chat platform built with the MERN Stack and TypeScript. It supports private and group chats, user profiles, and real-time messaging using Socket.IO.
+  The frontend is developed with React (TypeScript), Tailwind CSS, shadcn/ui, lucide-react, and Zustand for state management, featuring lazy loading for performance optimization.
+  The backend leverages Node.js, Express, and MongoDB (Mongoose) with JWT/bcrypt authentication, REST APIs, and Redis caching for scalability. Includes Cloudinary for image storage, Winston for logging, and is deployment-ready with Docker and Vercel/Heroku configurations.
+
   
 > 📌 Explore more in the [Repositories](https://github.com/AllahRakha1234?tab=repositories) section!
 
