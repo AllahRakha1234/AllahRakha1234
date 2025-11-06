@@ -48,6 +48,9 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=AllahRakha1234&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/AllahRakha1234?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/AllahRakha1234?label=Stars&style=social)
 
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/allah-rakha-z-a88b74233/)
