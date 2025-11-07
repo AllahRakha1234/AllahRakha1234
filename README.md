@@ -38,10 +38,10 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
 - 🎓 **[UniSync – University Management System](https://github.com/AllahRakha1234/Unisync)**
   A modular, multi-tenant university platform built with Next.js, TypeScript, Supabase, Redux, Tailwind CSS, and Shadcn. Supports role-based access (Super Admin, Admin, Instructor, Student) with features like LMS, assignments, grading, attendance tracking, file uploads, and real-time analytics.
 
-- 💬 [**SmartTalk – Real-Time Chat Application**](https://github.com/AllahRakha1234/SmartTalk)
-  A modern, full-featured real-time chat platform built with the MERN Stack and TypeScript. It supports private and group chats, user profiles, and real-time messaging using Socket.IO.
-  The frontend is developed with React (TypeScript), Tailwind CSS, shadcn/ui, lucide-react, and Zustand for state management, featuring lazy loading for performance optimization.
-  The backend leverages Node.js, Express, and MongoDB (Mongoose) with JWT/bcrypt authentication, REST APIs, and Redis caching for scalability. Includes Cloudinary for image storage, Winston for logging, and is deployment-ready with Docker and Vercel/Heroku configurations.
+- 💬 [**SmartTalk – Real-Time Chat Application**](https://github.com/AllahRakha1234/SmartTalk)  
+  A modern, full-featured real-time chat platform built with the MERN Stack and TypeScript. It supports private and group chats, user profiles, and real-time messaging using Socket.IO.  
+  The frontend is developed with React (TypeScript), Tailwind CSS, shadcn/ui, lucide-react, and Zustand for state management, featuring lazy loading for performance optimization.  
+  The backend leverages Node.js, Express.js, and MongoDB (Mongoose) with JWT/bcrypt authentication, REST APIs, and Redis caching for scalability. It also includes **Nodemailer** for secure password reset functionality via email, **Cloudinary** for image storage, and **Winston** for structured logging.
 
   
 > 📌 Explore more in the [Repositories](https://github.com/AllahRakha1234?tab=repositories) section!
