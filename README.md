@@ -33,7 +33,7 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
   A real-time sign language recognition system using MediaPipe and OpenCV. It detects hand gestures and maps them to alphabets, enabling hands-free alphabet communication.
 
 - 🎨 **[AR Face Studio App](https://github.com/AllahRakha1234/Walee-AR-Studio-Android)**
-  Magic filters and AR effects using google mediapile face-landmarker and Kotlin.
+  Magic filters and AR effects using google mediapile face-landmarker library in Kotlin.
 
 - 🎓 **[UniSync – University Management System](https://github.com/AllahRakha1234/Unisync)**
   A modular, multi-tenant university platform built with Next.js, TypeScript, Supabase, Redux, Tailwind CSS, and Shadcn. Supports role-based access (Super Admin, Admin, Instructor, Student) with features like LMS, assignments, grading, attendance tracking, file uploads, and real-time analytics.
