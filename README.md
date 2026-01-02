@@ -55,4 +55,4 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – **Cory House**
