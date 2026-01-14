@@ -2,7 +2,7 @@
 
 I'm Allah Rakha, a Software Engineer and Full Stack Developer passionate about building impactful and scalable digital solutions. I specialize in the MERN Stack and Python-based development, with hands-on experience in AI-integrated applications, AR technologies, and modern web platforms.
 
-I’ve worked on diverse projects ranging from educational platforms and billing systems to AR face-tracking applications and accessibility tools, leveraging frameworks like React.js, Next.js, NestJS, and libraries such as MediaPipe, OpenCV,MUI and Tailwind CSS.
+I’ve worked on diverse projects ranging from educational platforms and billing systems to AR face-tracking applications and accessibility tools, leveraging frameworks like React.js, Next.js, NestJS, and libraries such as MediaPipe, OpenCV,Material UI and Tailwind CSS.
 
 Currently, I’m advancing my skills as a Software Engineer at Walee, crafting efficient backends, interactive UIs, and intelligent automation systems using cutting-edge technologies.
 
