@@ -13,7 +13,7 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
 - **Frontend:** React.js, Next.js, Redux, Zustand, Jotai, Tailwind CSS, Material UI, Shadcn UI, Formik
 - **Backend:** Node.js, Express.js, NestJS
 - **Database/ORM:** MongoDB, MySQL, PostgreSQL, TypeORM, Mongoose, Prisma, Mongodb Driver
-- **Tools & Platforms:** Git, GitHub, BitBucket, Browser Debuggers, Vercel, Netlify, Heroku, Render, AWS, Docker, Supabase, Zod, Yup
+- **Tools & Platforms:** Git, GitHub, BitBucket, Browser Debuggers, Vercel, Netlify, Heroku AWS, Docker, Supabase, Zod, Yup
 - **Others:** Web Extensions, Web Sockets (Socket. IO), API Integration, MediaPipe, OpenCV
 
 ---
