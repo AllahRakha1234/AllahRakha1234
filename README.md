@@ -9,7 +9,7 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Php
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Php, C/C++
 - **Frontend:** React.js, Next.js, Redux, Zustand, Jotai, Tailwind CSS, Material UI, Shadcn UI, Ant Design, Formik, React Hook Form
 - **Backend:** Node.js, Express.js, NestJS, Python, Fast Api, Django, Flask
 - **Database/ORM:** MongoDB, MySQL, PostgreSQL, TypeORM, Mongoose, Prisma
