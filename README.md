@@ -14,7 +14,7 @@ Currently, I’m advancing my skills as a Software Engineer at Walee, crafting e
 - **Backend:** Node.js, Express.js, NestJS, Python, Fast Api, Django, Flask
 - **Database/ORM:** MongoDB, MySQL, PostgreSQL, TypeORM, Mongoose, Prisma
 - **Tools & Platforms:** Git, GitHub, BitBucket, Browser Debuggers, Vercel, Netlify, AWS, Docker, Supabase, Cloudflare, Wordpress
-- **Others:** Web Extensions, Web Sockets ( Socket.IO )
+- **Others:** Web Extensions, Web Sockets ( Socket.IO ), Cursor, Claude 
 
 ---
 
